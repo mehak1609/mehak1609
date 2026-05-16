@@ -2,7 +2,7 @@
 
 🚀 Cloud DevOps Engineer | AWS · Azure · GCP  
 📍 Haryana, India  
-💼 Currently working at ATH Infosystems
+💼 Currently working at ATH Infosystems Pvt. Ltd.
 
 ## 💡 About Me
 - 🌱 Passionate about DevSecOps and cloud-native solutions
