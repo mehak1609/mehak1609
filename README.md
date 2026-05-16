@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Mehak Bansal 👋
 
-<!--
-**mehak1609/mehak1609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Cloud DevOps Engineer | AWS · Azure · GCP  
+📍 Haryana, India  
+💼 Currently working at ATH Infosystems
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-blue?logo=microsoftazure)
+![GCP](https://img.shields.io/badge/GCP-red?logo=googlecloud)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes)
+![Terraform](https://img.shields.io/badge/Terraform-purple?logo=terraform)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?logo=githubactions)
+![Linux](https://img.shields.io/badge/Linux-yellow?logo=linux)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Mehak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehak1609&show_icons=true&theme=tokyonight)
+
+## 🔗 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/mehak-bansal-99a67a25a/)
