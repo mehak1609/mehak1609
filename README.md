@@ -4,6 +4,18 @@
 📍 Haryana, India  
 💼 Currently working at ATH Infosystems
 
+## 💡 About Me
+- 🌱 Passionate about DevSecOps and cloud-native solutions
+- 🔭 Currently building scalable fintech infrastructure
+- 💬 Ask me about AWS, Docker, CI/CD, Linux
+- ⚡ Fun fact: I love automating everything — if I do it twice, I script it!
+
+## 🎓 Certifications
+- 📊 Data Analytics — EXL Technologies & AIF (2025)
+- ☕ Object-Oriented Programming in Java — Geekster
+- 🐍 Python Programming — Geekster
+- 🗄️ SQL for Data Management — Geekster
+
 ## 🛠️ Tech Stack
 
 **Cloud Platforms:**
@@ -47,6 +59,34 @@
 **Databases & Analytics:**
 ![SQL](https://img.shields.io/badge/SQL-blue?logo=mysql)
 ![PowerBI](https://img.shields.io/badge/Power_BI-yellow?logo=powerbi)
+
+## 🚀 Featured Projects
+
+### 🔍 Enterprise AI Search Platform — AWS Deployment
+Self-hosted AI search platform on AWS EC2 — cost-effective alternative 
+to AWS Kendra ($1000+/month). Built a 2-node OpenSearch cluster with 
+768-dimensional semantic vector search using Python Sentence Transformers 
+and RAG architecture. Integrated Anthropic Claude API for intelligent, 
+context-aware search. Multi-tenant auth with JWT & bcrypt, secured with 
+HTTPS/SSL, fully Dockerized with Docker Compose.
+**Listed as a live product on AWS Marketplace!** 🎉
+**Tech:** OpenSearch · Node.js · Python · Docker · AWS EC2 · Claude API · JWT · SSL
+[View Project](https://github.com/mehak1609/AI-Layer-for-Self-hosted-OpenSearch)
+
+### ✅ To-Do App — Full DevOps Pipeline
+Full-stack web app with complete end-to-end DevOps pipeline. 
+Containerized with multi-stage Dockerfiles, automated CI/CD via 
+GitHub Actions (build, test, lint, zero-downtime delivery), and 
+real-time monitoring with Prometheus & Grafana dashboards.
+**Tech:** HTML · CSS · JavaScript · Docker · GitHub Actions · Prometheus · Grafana
+[View Project](https://github.com/mehak1609/To-Do-List-Cloud-DevOps)
+
+### 🏗️ TenantHub Platform Infrastructure
+Multi-tenant SaaS infrastructure with Kubernetes, Terraform & GCP.
+Tenant isolation, per-tenant secret management with GCP Secret Manager,
+Workload Identity, NetworkPolicy, and infra change visibility via PR diffs.
+**Tech:** Kubernetes · Terraform · GCP · GitHub Actions · ArgoCD · Kustomize
+[View Project](https://github.com/mehak1609/tenanthub-platform)
 
 ## 📊 GitHub Stats
 ![Mehak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehak1609&show_icons=true&theme=tokyonight)
